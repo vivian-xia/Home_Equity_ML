@@ -1,6 +1,5 @@
 #Vivian Xia
-#Assignment 1
-
+#Assignment 1: Data Preparation – Graphs and Statistical Output
 
 import pandas as pd 
 import numpy as np
